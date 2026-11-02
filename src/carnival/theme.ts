@@ -1,17 +1,18 @@
 /**
- * The carnival's colours, fonts and sizes. Games draw with these rather than
- * their own values, so every booth on the midway looks like it belongs.
+ * The carnival's colours, fonts and sizes, in the green, yellow, blue and white
+ * of Brazil's flag. Games draw with these rather than their own values, so
+ * every booth on the midway looks like it belongs.
  */
 export const theme = {
   colors: {
-    background: '#1b1035',
-    surface: '#2a1a52',
-    text: '#fff8e7',
-    muted: '#b9a9d9',
-    accent: '#ffcc33',
+    background: '#002776',
+    surface: '#0b3c8c',
+    text: '#fffdf2',
+    muted: '#a9c4e8',
+    accent: '#ffdf00',
     danger: '#ff5a5f',
-    stripeA: '#e63946',
-    stripeB: '#fff8e7',
+    stripeA: '#009c3b',
+    stripeB: '#fffdf2',
     water: '#5ec8f2',
     wood: '#8a5a3b',
   },
